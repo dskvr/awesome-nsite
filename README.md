@@ -19,3 +19,7 @@ A collection of tools and apps built using the nsite spec which extends the Blos
 
 - [nsite.lol](https://nsite.lol)
 - [nostrdeploy.com](https://nostrdeploy.com)
+
+## Other
+
+- [nsite developers follow pack](https://following.space/d/5gpy56fm3dga?p=e771af0b05c8e95fcdf6feb3500544d2fb1ccd384788e9f490bb3ee28e8ed66f)
